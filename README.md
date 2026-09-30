@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/SiddharthGautam282003">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthGautam282003&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Semaphore007&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
 </a>
 
 </div>
