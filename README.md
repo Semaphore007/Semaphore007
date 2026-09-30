@@ -12,9 +12,9 @@
 
 <br><br>
 
-### 🚀 B.Tech CSE @ IIIT Dharwad | Minor in Generative Ai and Financial Analytics
+### 🚀 B.Tech CSE @ IIIT Dharwad | Minor in Gen AI and Financial Analytics
 
-### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about  Artificial Intelligence & Open Source
+### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about AI/ML & Open Source
 
 <br>
 
