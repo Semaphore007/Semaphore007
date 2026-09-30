@@ -14,7 +14,7 @@
 
 ### 🚀 B.Tech CSE @ IIIT Dharwad | Minor In Gen AI & Financial Analytics
 
-### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about  Artificial Intelligence & Open Source
+### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about System Design & Open Source
 
 <br>
 <a href="https://linkedin.com/in/siddharth-gautam-883539238">
