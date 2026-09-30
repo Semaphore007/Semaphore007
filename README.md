@@ -18,21 +18,11 @@
 
 <br>
 
-<a href="https://linkedin.com/in/siddharth-gautam-883539238">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<div align="center" style="font-size:0;">
 
-<a href="https://medium.com/@sidgautam282003">
-  <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
+<a href="https://linkedin.com/in/siddharth-gautam-883539238" style="text-decoration:none;"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="https://medium.com/@sidgautam282003" style="text-decoration:none;"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a><a href="mailto:sidgautam282003@gmail.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><a href="https://github.com/SiddharthGautam282003" style="text-decoration:none;"><img src="https://komarev.com/ghpvc/?username=SiddharthGautam282003&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"></a>
 
-<a href="mailto:sidgautam282003@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/SiddharthGautam282003">
-  <img src="https://komarev.com/ghpvc/?username=SiddharthGautam282003&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
-</a>
+</div>
 
 </div>
 
