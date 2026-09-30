@@ -288,15 +288,11 @@ public:
 **I'm always excited to collaborate on innovative projects and discuss new opportunities!**
 
 <a href="https://linkedin.com/in/siddharth-gautam-883539238">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://medium.com/@sidgautam282003">
-  <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  <img src="https://img.shields.io/badge/DM_ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:sidgautam282003@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/MAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/SiddharthGautam282003">
