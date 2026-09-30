@@ -9,8 +9,6 @@
      width="650"
      alt="Animated Line">
 
-<br><br>
-
 ### 🚀 B.Tech CSE @ IIIT Dharwad | Minor In Gen AI & Financial Analytics
 
 ### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about System Design & Open Source
