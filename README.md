@@ -287,7 +287,7 @@ public:
 
 **I'm always excited to collaborate on innovative projects and discuss new opportunities!**
 
-<a href="https://t.me/The_Outlier_2003">
+<a href="https://t.me/TheOutlier_2003">
   <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
