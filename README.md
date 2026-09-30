@@ -1,8 +1,9 @@
 # 💫 About Me:
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<table style="border: none;">
+<tr style="border: none;">
+
+<td width="60%" valign="top" style="border: none;">
 
 <pre>
 class Developer {
@@ -49,7 +50,7 @@ public:
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle" style="border: none;">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
      width="400"
@@ -59,6 +60,7 @@ public:
 
 </tr>
 </table>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-gautam-883539238) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sidgautam282003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidgautam282003@gmail.com) 
 
@@ -255,6 +257,10 @@ public:
 ![](https://streak-stats.demolab.com/?user=Semaphore007&theme=github_dark&hide_border=false)<br/>
 
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
