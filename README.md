@@ -1,10 +1,50 @@
-<img align="right"
-     alt="Coding"
-     width="400"
-     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-### 💫 About Me
+<!-- 👋 Animated Introduction -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Siddharth+Gautam+%F0%9F%91%8B;B.Tech+CSE+Student+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%E2%9A%A1;Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG">
 
+<br>
+
+<!-- 🔴 Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+     width="650"
+     alt="Animated Line">
+
+<br><br>
+
+### 🚀 B.Tech CSE @ IIIT Dharwad | AI/ML Enthusiast | Competitive Programmer
+
+### 💡 Passionate about DSA, Full Stack Development, Artificial Intelligence & Open Source
+
+<br>
+
+<a href="https://linkedin.com/in/siddharth-gautam-883539238">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://medium.com/@sidgautam282003">
+  <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+
+<a href="mailto:sidgautam282003@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/SiddharthGautam282003">
+  <img src="https://komarev.com/ghpvc/?username=SiddharthGautam282003&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
+</a>
+
+</div>
+
+
+# 💫 About Me:
+
+<table style="border: none;">
+<tr style="border: none;">
+
+<td width="60%" valign="top" style="border: none;">
+
+<pre>
 class Developer {
 
 private:
@@ -14,7 +54,7 @@ private:
 public:
 
     // 🔥 My Core Focus
-    vector<string> focus = {
+    vector&lt;string&gt; focus = {
         "🤖 Artificial Intelligence",
         "🧠 Machine Learning",
         "⚡ Data Structures & Algorithms",
@@ -23,21 +63,21 @@ public:
     };
 
     // 💻 Technologies I Work With
-    vector<string> tech = {
+    vector&lt;string&gt; tech = {
         "C++", "Python", "JavaScript",
         "React", "Node.js", "HTML",
         "CSS", "Git"
     };
 
     // 🚀 Currently Exploring
-    vector<string> exploring = {
+    vector&lt;string&gt; exploring = {
         "✨ Generative AI",
         "🏗️ System Design",
         "⚙️ DevOps"
     };
 
     // 🌱 Beyond Coding
-    vector<string> interests = {
+    vector&lt;string&gt; interests = {
         "🌍 Open Source",
         "⛓️ Blockchain",
         "☁️ Cloud Computing",
@@ -45,9 +85,64 @@ public:
     };
 
 };
+</pre>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-gautam-883539238) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sidgautam282003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidgautam282003@gmail.com) 
+</td>
+
+<td width="40%" align="center" valign="middle" style="border: none;">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+     width="400"
+     alt="Developer Coding Animation">
+
+</td>
+
+</tr>
+</table>
+
+
+<div align="center">
+
+## 🎯 Let's Connect!
+
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
+     width="70"
+     alt="Handshake">
+
+<br><br>
+
+**I'm always excited to collaborate on innovative projects and discuss new opportunities!**
+
+<br><br>
+
+<a href="https://linkedin.com/in/siddharth-gautam-883539238">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://medium.com/@sidgautam282003">
+  <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="mailto:sidgautam282003@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/SiddharthGautam282003">
+  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<!-- 🔴 Animated Red Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+     width="450"
+     alt="Animated Red Line">
+
+<br>
+
+<!-- 🌊 Animated Water Flow -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"
+     width="100%"
+     alt="Animated Footer">
+
+</div>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -238,9 +333,19 @@ public:
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 # 📊 GitHub Statistics:
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+     width="50"
+     alt="GitHub Statistics">
+
 ![](https://github-readme-stats.shion.dev/api?username=Semaphore007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Semaphore007&theme=github_dark&hide_border=false)<br/>
 
+<div align="center">
+
+<img src="https://camo.githubusercontent.com/9b1401bf057d5b1c1bcfd0439dad5a9a83e0b8efdc6010717c82c34e32e86e08/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5368726176616e695232343132266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426686964655f626f726465723d747275652662675f636f6c6f723d304431313137267469746c655f636f6c6f723d43373932454126746578745f636f6c6f723d464646464646266c616e67735f636f756e743d38"
+     alt="Top Languages"
+     width="400">
+
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
