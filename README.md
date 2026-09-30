@@ -17,6 +17,7 @@
 ### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about  Artificial Intelligence & Open Source
 
 <br>
+</div>
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-gautam-883539238/)
 
@@ -25,6 +26,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidgautam282003@gmail.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SiddharthGautam282003&color=blueviolet&style=for-the-badge)](https://github.com/SiddharthGautam282003)
+</div>
 </div>
 
 ---
