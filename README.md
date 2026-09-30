@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/SiddharthGautam282003">
+<a href="https://github.com/Semaphore007">
   <img src="https://komarev.com/ghpvc/?username=Semaphore007&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
 </a>
 
