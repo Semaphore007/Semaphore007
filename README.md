@@ -17,16 +17,22 @@
 ### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about  Artificial Intelligence & Open Source
 
 <br>
-</div>
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-gautam-883539238/)
+<a href="https://linkedin.com/in/siddharth-gautam-883539238">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sidgautam282003)
+<a href="https://medium.com/@sidgautam282003">
+  <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidgautam282003@gmail.com)
+<a href="mailto:sidgautam282003@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SiddharthGautam282003&color=blueviolet&style=for-the-badge)](https://github.com/SiddharthGautam282003)
-</div>
+<a href="https://github.com/SiddharthGautam282003">
+  <img src="https://komarev.com/ghpvc/?username=SiddharthGautam282003&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
+</a>
+
 </div>
 
 ---
