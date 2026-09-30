@@ -12,9 +12,9 @@
 
 <br><br>
 
-### 🚀 B.Tech CSE @ IIIT Dharwad | Minor In Gen AI and Financial Analytics
+### 🚀 B.Tech CSE @ IIIT Dharwad | Minor in Generative Ai and Financial Analytics
 
-### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about AI/ML & Open Source
+### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about  Artificial Intelligence & Open Source
 
 <br>
 
@@ -100,49 +100,7 @@ public:
 </tr>
 </table>
 
-
 <div align="center">
-
-<div align="center">
-
-## 🎯 Let's Connect!
-
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
-     width="55"
-     alt="Handshake">
-
-<br>
-
-**I'm always excited to collaborate on innovative projects and discuss new opportunities!**
-
-<br>
-
-<a href="https://linkedin.com/in/siddharth-gautam-883539238">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://medium.com/@sidgautam282003">
-  <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-<a href="mailto:sidgautam282003@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://komarev.com/ghpvc/?username=SiddharthGautam282003">
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-     width="300"
-     alt="Animated Red Line">
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"
-     width="850"
-     alt="Animated Water Flow">
-
-</div>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -348,5 +306,43 @@ public:
 
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🎯 Let's Connect!
 
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
+     width="45"
+     alt="Handshake">
+
+<br>
+
+**I'm always excited to collaborate on innovative projects and discuss new opportunities!**
+
+<br>
+
+<a href="https://linkedin.com/in/siddharth-gautam-883539238">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://medium.com/@sidgautam282003">
+  <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="mailto:sidgautam282003@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/SiddharthGautam282003">
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+     width="250"
+     alt="Animated Red Line">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"
+     width="650"
+     alt="Animated Water Flow">
+
+</div>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
