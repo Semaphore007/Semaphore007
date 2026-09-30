@@ -23,9 +23,7 @@
 <a href="mailto:sidgautam282003@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://github.com/Semaphore007">
-  <img src="https://komarev.com/ghpvc/?username=Semaphore007&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</a>
+[![Profile Views](https://shieldcn.dev/views/user/Semaphore007.svg?variant=branded)](https://github.com/Semaphore007)
 
 </div>
 
