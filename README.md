@@ -23,7 +23,6 @@
 <a href="mailto:sidgautam282003@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-[![Profile Views](https://shieldcn.dev/views/user/Semaphore007.svg?variant=branded)](https://github.com/Semaphore007)
 
 </div>
 
