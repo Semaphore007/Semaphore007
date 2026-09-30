@@ -287,17 +287,18 @@ public:
 
 **I'm always excited to collaborate on innovative projects and discuss new opportunities!**
 
-<a href="https://t.me/TheOutlier_2003">
-  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+<a href="https://t.me/TheOutlier_2003"
+   style="text-decoration:none !important; border-bottom:none !important; display:inline-block;">
+<img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+     alt="Telegram"></a><a href="mailto:sidgautam282003@gmail.com"
+   style="text-decoration:none !important; border-bottom:none !important; display:inline-block;">
+<img src="https://img.shields.io/badge/MAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+     alt="Email"></a><a href="https://github.com/SiddharthGautam282003"
+   style="text-decoration:none !important; border-bottom:none !important; display:inline-block;">
+<img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+     alt="GitHub"></a>
 
-<a href="mailto:sidgautam282003@gmail.com">
-  <img src="https://img.shields.io/badge/MAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/SiddharthGautam282003">
-  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
      width="700"
