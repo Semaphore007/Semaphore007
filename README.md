@@ -12,7 +12,7 @@
 
 <br><br>
 
-### 🚀 B.Tech CSE @ IIIT Dharwad | Minor in Gen AI and Financial Analytics
+### 🚀 B.Tech CSE @ IIIT Dharwad | Minor In Gen AI and Financial Analytics
 
 ### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about AI/ML & Open Source
 
