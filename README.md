@@ -37,10 +37,20 @@
 </div>
 
 
-<pre>
+# 💫 About Me:
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<div style="background-color:#0D1117; padding:20px; border-radius:12px;">
+
+<pre style="background-color:#161B22; color:#F0F6FC; padding:20px; border-radius:10px; font-family:monospace; line-height:1.6;">
+
 <span style="color:#FF7B72;">class</span> <span style="color:#79C0FF;">Developer</span> {
 
 <span style="color:#FF7B72;">private</span>:
+
     <span style="color:#79C0FF;">string</span> <span style="color:#FFA657;">education</span> = <span style="color:#A5D6FF;">"B.Tech CSE @ IIIT Dharwad"</span>;
     <span style="color:#79C0FF;">string</span> <span style="color:#FFA657;">location</span>  = <span style="color:#A5D6FF;">"Bengaluru, Karnataka, India"</span>;
 
@@ -78,7 +88,22 @@
     };
 
 };
+
 </pre>
+
+</div>
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+     width="400"
+     alt="Developer Coding Animation">
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ **Tech Stack & Skills**
 
