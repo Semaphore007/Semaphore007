@@ -39,10 +39,10 @@
 
 # 💫 About Me:
 
-<table style="border: none;">
-<tr style="border: none;">
-
-<td width="60%" valign="top" style="border: none;">
+<img align="right"
+     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+     width="400"
+     alt="Developer Coding Animation">
 
 <pre>
 class Developer {
@@ -86,21 +86,6 @@ public:
 
 };
 </pre>
-
-</td>
-
-<td width="40%" align="center" valign="middle" style="border: none;">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-     width="400"
-     alt="Developer Coding Animation">
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
 
 ## 🛠️ **Tech Stack & Skills**
 
