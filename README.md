@@ -300,7 +300,7 @@ public:
 </a>
 
 <a href="https://github.com/SiddharthGautam282003">
-  <img src="https://img.shields.io/badge/PROFILE_VIEWS-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
