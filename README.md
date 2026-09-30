@@ -1,11 +1,10 @@
-# 💫 About Me:
+<img align="right"
+     alt="Coding"
+     width="400"
+     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<table style="border: none;">
-<tr style="border: none;">
+### 💫 About Me
 
-<td width="60%" valign="top" style="border: none;">
-
-<pre>
 class Developer {
 
 private:
@@ -15,7 +14,7 @@ private:
 public:
 
     // 🔥 My Core Focus
-    vector&lt;string&gt; focus = {
+    vector<string> focus = {
         "🤖 Artificial Intelligence",
         "🧠 Machine Learning",
         "⚡ Data Structures & Algorithms",
@@ -24,21 +23,21 @@ public:
     };
 
     // 💻 Technologies I Work With
-    vector&lt;string&gt; tech = {
+    vector<string> tech = {
         "C++", "Python", "JavaScript",
         "React", "Node.js", "HTML",
         "CSS", "Git"
     };
 
     // 🚀 Currently Exploring
-    vector&lt;string&gt; exploring = {
+    vector<string> exploring = {
         "✨ Generative AI",
         "🏗️ System Design",
         "⚙️ DevOps"
     };
 
     // 🌱 Beyond Coding
-    vector&lt;string&gt; interests = {
+    vector<string> interests = {
         "🌍 Open Source",
         "⛓️ Blockchain",
         "☁️ Cloud Computing",
@@ -46,20 +45,6 @@ public:
     };
 
 };
-</pre>
-
-</td>
-
-<td width="40%" align="center" valign="middle" style="border: none;">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-     width="400"
-     alt="Developer Coding Animation">
-
-</td>
-
-</tr>
-</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-gautam-883539238) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sidgautam282003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidgautam282003@gmail.com) 
@@ -259,9 +244,3 @@ public:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
