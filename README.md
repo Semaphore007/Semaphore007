@@ -287,8 +287,8 @@ public:
 
 **I'm always excited to collaborate on innovative projects and discuss new opportunities!**
 
-<a href="https://linkedin.com/in/siddharth-gautam-883539238">
-  <img src="https://img.shields.io/badge/DM_ME-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://t.me/The_Outlier_2003">
+  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 <a href="mailto:sidgautam282003@gmail.com">
