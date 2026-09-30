@@ -257,10 +257,10 @@ public:
 
 
 ---
-# 📊 GitHub Statistics:
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-     width="50"
-     alt="GitHub Statistics">
+## 📊 **GitHub Statistics**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
+
 
 ![](https://github-readme-stats.shion.dev/api?username=Semaphore007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Semaphore007&theme=github_dark&hide_border=false)<br/>
