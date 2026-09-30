@@ -12,9 +12,9 @@
 
 <br><br>
 
-### 🚀 B.Tech CSE @ IIIT Dharwad | AI/ML Enthusiast | Competitive Programmer
+### 🚀 B.Tech CSE @ IIIT Dharwad | Minor in Generative Ai and Financial Analytics
 
-### 💡 Passionate about DSA, Full Stack Development, Artificial Intelligence & Open Source
+### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about  Artificial Intelligence & Open Source
 
 <br>
 
@@ -103,17 +103,19 @@ public:
 
 <div align="center">
 
+<div align="center">
+
 ## 🎯 Let's Connect!
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
-     width="70"
+     width="55"
      alt="Handshake">
 
-<br><br>
+<br>
 
 **I'm always excited to collaborate on innovative projects and discuss new opportunities!**
 
-<br><br>
+<br>
 
 <a href="https://linkedin.com/in/siddharth-gautam-883539238">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -124,23 +126,21 @@ public:
 <a href="mailto:sidgautam282003@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://github.com/SiddharthGautam282003">
-  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://komarev.com/ghpvc/?username=SiddharthGautam282003">
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<!-- 🔴 Animated Red Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-     width="450"
+     width="300"
      alt="Animated Red Line">
 
 <br>
 
-<!-- 🌊 Animated Water Flow -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"
-     width="100%"
-     alt="Animated Footer">
+     width="850"
+     alt="Animated Water Flow">
 
 </div>
 
@@ -349,3 +349,4 @@ public:
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
