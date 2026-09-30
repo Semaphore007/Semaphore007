@@ -39,71 +39,55 @@
 
 # 💫 About Me:
 
-<table>
-<tr>
-<td width="60%" valign="top">
+# 💫 About Me:
 
-<div style="background-color:#0D1117; padding:20px; border-radius:12px;">
-
-<pre style="background-color:#161B22; color:#F0F6FC; padding:20px; border-radius:10px; font-family:monospace; line-height:1.6;">
-
-<span style="color:#FF7B72;">class</span> <span style="color:#79C0FF;">Developer</span> {
-
-<span style="color:#FF7B72;">private</span>:
-
-    <span style="color:#79C0FF;">string</span> <span style="color:#FFA657;">education</span> = <span style="color:#A5D6FF;">"B.Tech CSE @ IIIT Dharwad"</span>;
-    <span style="color:#79C0FF;">string</span> <span style="color:#FFA657;">location</span>  = <span style="color:#A5D6FF;">"Bengaluru, Karnataka, India"</span>;
-
-<span style="color:#FF7B72;">public</span>:
-
-    <span style="color:#8B949E;">// 🔥 My Core Focus</span>
-    <span style="color:#79C0FF;">vector</span>&lt;<span style="color:#79C0FF;">string</span>&gt; <span style="color:#FFA657;">focus</span> = {
-        <span style="color:#A5D6FF;">"🤖 Artificial Intelligence"</span>,
-        <span style="color:#A5D6FF;">"🧠 Machine Learning"</span>,
-        <span style="color:#A5D6FF;">"⚡ Data Structures &amp; Algorithms"</span>,
-        <span style="color:#A5D6FF;">"🌐 Full Stack Web Development"</span>,
-        <span style="color:#A5D6FF;">"🌍 Open Source"</span>
-    };
-
-    <span style="color:#8B949E;">// 💻 Technologies I Work With</span>
-    <span style="color:#79C0FF;">vector</span>&lt;<span style="color:#79C0FF;">string</span>&gt; <span style="color:#FFA657;">tech</span> = {
-        <span style="color:#A5D6FF;">"C++"</span>, <span style="color:#A5D6FF;">"Python"</span>, <span style="color:#A5D6FF;">"JavaScript"</span>,
-        <span style="color:#A5D6FF;">"React"</span>, <span style="color:#A5D6FF;">"Node.js"</span>, <span style="color:#A5D6FF;">"HTML"</span>,
-        <span style="color:#A5D6FF;">"CSS"</span>, <span style="color:#A5D6FF;">"Git"</span>
-    };
-
-    <span style="color:#8B949E;">// 🚀 Currently Exploring</span>
-    <span style="color:#79C0FF;">vector</span>&lt;<span style="color:#79C0FF;">string</span>&gt; <span style="color:#FFA657;">exploring</span> = {
-        <span style="color:#A5D6FF;">"✨ Generative AI"</span>,
-        <span style="color:#A5D6FF;">"🏗️ System Design"</span>,
-        <span style="color:#A5D6FF;">"⚙️ DevOps"</span>
-    };
-
-    <span style="color:#8B949E;">// 🌱 Beyond Coding</span>
-    <span style="color:#79C0FF;">vector</span>&lt;<span style="color:#79C0FF;">string</span>&gt; <span style="color:#FFA657;">interests</span> = {
-        <span style="color:#A5D6FF;">"🌍 Open Source"</span>,
-        <span style="color:#A5D6FF;">"⛓️ Blockchain"</span>,
-        <span style="color:#A5D6FF;">"☁️ Cloud Computing"</span>,
-        <span style="color:#A5D6FF;">"🚀 Web 3.0"</span>
-    };
-
-};
-
-</pre>
-
-</div>
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+<img align="right"
+     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
      width="400"
      alt="Developer Coding Animation">
 
-</td>
-</tr>
-</table>
+<pre>
+class Developer {
+
+private:
+    string education = "B.Tech CSE @ IIIT Dharwad";
+    string location  = "Bengaluru, Karnataka, India";
+
+public:
+
+    // 🔥 My Core Focus
+    vector&lt;string&gt; focus = {
+        "🤖 Artificial Intelligence",
+        "🧠 Machine Learning",
+        "⚡ Data Structures & Algorithms",
+        "🌐 Full Stack Web Development",
+        "🌍 Open Source"
+    };
+
+    // 💻 Technologies I Work With
+    vector&lt;string&gt; tech = {
+        "C++", "Python", "JavaScript",
+        "React", "Node.js", "HTML",
+        "CSS", "Git"
+    };
+
+    // 🚀 Currently Exploring
+    vector&lt;string&gt; exploring = {
+        "✨ Generative AI",
+        "🏗️ System Design",
+        "⚙️ DevOps"
+    };
+
+    // 🌱 Beyond Coding
+    vector&lt;string&gt; interests = {
+        "🌍 Open Source",
+        "⛓️ Blockchain",
+        "☁️ Cloud Computing",
+        "🚀 Web 3.0"
+    };
+
+};
+</pre>
 
 ## 🛠️ **Tech Stack & Skills**
 
