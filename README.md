@@ -244,7 +244,7 @@ public:
 
 
 ![](https://github-readme-stats.shion.dev/api?username=Semaphore007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Semaphore007&theme=github_dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Semaphore007&theme=tokyonight&hide_border=true)<br/>
 
 <div align="center">
 
