@@ -35,45 +35,23 @@
      alt="Developer Coding Animation">
 
 <pre>
+## About Me
+
 class Developer {
-
-private:
-    string education = "B.Tech CSE @ IIIT Dharwad";
-    string location  = "Bengaluru, Karnataka, India";
-
 public:
+    string education = "B.Tech CSE @ IIIT Dharwad";
+    string role = "Founder @ GatiAnvesh Dynamics";
 
-    // 🔥 My Core Focus
-    vector&lt;string&gt; focus = {
-        "🤖 Artificial Intelligence",
-        "🧠 Machine Learning",
-        "⚡ Data Structures & Algorithms",
-        "🌐 Full Stack Web Development",
-        "🌍 Open Source"
+    vector<string> interests = {
+        "AI/ML", "Generative AI",
+        "DSA", "Full Stack Development",
+        "Open Source"
     };
 
-    // 💻 Technologies I Work With
-    vector&lt;string&gt; tech = {
+    vector<string> tech = {
         "C++", "Python", "JavaScript",
-        "React", "Node.js", "HTML",
-        "CSS", "Git"
+        "React", "Node.js", "Git"
     };
-
-    // 🚀 Currently Exploring
-    vector&lt;string&gt; exploring = {
-        "✨ Generative AI",
-        "🏗️ System Design",
-        "⚙️ DevOps"
-    };
-
-    // 🌱 Beyond Coding
-    vector&lt;string&gt; interests = {
-        "🌍 Open Source",
-        "⛓️ Blockchain",
-        "☁️ Cloud Computing",
-        "🚀 Web 3.0"
-    };
-
 };
 </pre>
 
