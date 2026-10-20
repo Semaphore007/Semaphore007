@@ -5,8 +5,8 @@
 
 <div align="center">
 
-<!-- 🔵 Animated Cyan Blue Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,15&height=4&section=header" width="650" alt="Blue Gradient Divider"/>
+<!-- 🔹 Moving Cyan Blue Divider -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=0&color=00D9FF&center=true&vCenter=true&width=650&height=20&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" alt="Moving Cyan Divider"/>
 
 </div>
 
