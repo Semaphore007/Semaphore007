@@ -5,8 +5,8 @@
 
 <div align="center">
 
-<!-- 🔹 Moving Cyan Blue Divider -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1000&pause=0&color=00D9FF&center=true&vCenter=true&width=650&height=20&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" alt="Moving Cyan Divider"/>
+<!-- 🔵 Cyan Blue Animated Divider -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=10&duration=700&pause=0&color=00D9FF&center=true&vCenter=true&width=650&height=12&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" width="650" alt="Cyan Blue Animated Divider"/>
 
 </div>
 
