@@ -35,8 +35,6 @@
      alt="Developer Coding Animation">
 
 <pre>
-## About Me
-
 class Developer {
 public:
     string education = "B.Tech CSE @ IIIT Dharwad";
