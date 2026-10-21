@@ -53,7 +53,7 @@ public:
 };
 </pre>
 
-<div align="center">
+
 </div>
 
 
