@@ -57,6 +57,7 @@ public:
 
 ---
 
+<div align="center">
 
 ## 🛠️ **Tech Stack & Skills**
 
