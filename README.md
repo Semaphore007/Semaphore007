@@ -43,25 +43,74 @@ Computer Science undergraduate passionate about building intelligent application
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 <div align="center">
 
-**Languages**
+### 💻 Languages & Programming
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,rust,html,css&theme=dark" height="55"/>
 
-**Frameworks & Development**
+### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,flask&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,sass&theme=dark" height="55"/>
 
-**AI / ML & Data Science**
+### ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,flask,dotnet&theme=dark" height="55"/>
 
-**Databases & Developer Tools**
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,vscode,docker&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,oracle&theme=dark" height="55"/>
+
+### 🤖 AI / ML & Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,numpy&theme=dark" height="55"/>
+
+### 📊 Data Visualization
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
+
+**NumPy · Pandas · Matplotlib · Plotly**
+
+### 🌐 APIs & Maps
+
+<img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" height="55"/>
+
+**Google Maps API · Leaflet.js · WebSockets**
+
+### ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,netlify,vercel&theme=dark" height="55"/>
+
+### 🛠️ Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,bash,powershell,vscode,postman,notion&theme=dark" height="55"/>
+
+### 🎨 Design & Creative Tools
+
+<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" height="55"/>
+
+**Adobe Creative Cloud**
+
+### 🧠 GPU & Computing
+
+<img src="https://skillicons.dev/icons?i=apple&theme=dark" height="55"/>
+
+**CUDA · NVIDIA**
+
+### 📱 Mobile & IoT
+
+<img src="https://skillicons.dev/icons?i=flutter,raspberrypi&theme=dark" height="55"/>
+
+### 🌍 Web3 & Blockchain
+
+**Web3.js**
+
+### 📝 CMS & Productivity
+
+<img src="https://skillicons.dev/icons?i=wordpress,notion&theme=dark" height="55"/>
 
 </div>
 
