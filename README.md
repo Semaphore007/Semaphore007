@@ -1,243 +1,340 @@
-<div align="center">
+ <div align="center">
 
-<!-- 👋🏽 Animated Introduction -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Siddharth+Gautam+%F0%9F%91%8B%F0%9F%8F%BD;B.Tech+CSE+Student+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%E2%9A%A1;Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG">
+<!-- ═══════════════════════════════════════ -->
+<!--              HEADER WAVE               -->
+<!-- ═══════════════════════════════════════ -->
 
-<!-- 🔵 Animated Cyan Blue Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="650" alt="Animated Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:bc8cff&height=130&section=header&animation=fadeIn&fontColor=ffffff&fontSize=0" width="100%"/>
 
+<!-- ═══════════════════════════════════════ -->
+<!--              ANIMATED NAME             -->
+<!-- ═══════════════════════════════════════ -->
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=52&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=110&lines=SIDDHARTH+GAUTAM" alt="Siddharth Gautam"/>
 
-### 🚀 B.Tech CSE @ IIIT Dharwad | Minor In Gen AI & Financial Analytics
+<!-- ═══════════════════════════════════════ -->
+<!--             ANIMATED ROLES             -->
+<!-- ═══════════════════════════════════════ -->
 
-### 💡 Full Stack Developer | AI/ML Enthusiast | 2⭐ @CodeChef | Competitive Programmer | Passionate about System Design & Open Source
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=850&height=55&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%E2%9A%A1;Open+Source+Contributor+%F0%9F%94%AC;Building+Intelligent+Software+%F0%9F%A7%A0" alt="Animated roles"/>
 
-<br>
+<!-- ═══════════════════════════════════════ -->
+<!--                SUBTITLE                -->
+<!-- ═══════════════════════════════════════ -->
 
-<a href="https://linkedin.com/in/siddharth-gautam-883539238">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=850&height=35&lines=%E2%9A%A1+B.Tech+CSE+%40+IIIT+Dharwad+%C2%B7+Minor+in+Generative+AI+%26+Financial+Analytics" alt="Education"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════ -->
+<!--               ROLE BADGES              -->
+<!-- ═══════════════════════════════════════ -->
+
+![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff&labelColor=161b22)
+![Full Stack](https://img.shields.io/badge/FULL%20STACK-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22)
+![DSA](https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22)
+![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=3fb950&labelColor=161b22)
+![Financial Analytics](https://img.shields.io/badge/FINANCIAL%20ANALYTICS-0d1117?style=for-the-badge&logo=googleanalytics&logoColor=bc8cff&labelColor=161b22)
+
+<br/>
+
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+
+🎓 **B.Tech CSE**
+
+IIIT Dharwad
+
+<br/><br/>
+
+🧠 Minor in Generative AI
+
+📊 Minor in Financial Analytics
+
+</td>
+<td align="center" valign="top" width="50%">
+
+💼 **Research Intern**
+
+IIT Indore
+
+<br/><br/>
+
+⚡ Healthcare AI
+
+🚀 GSSoC'26 Contributor
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--                 ABOUT ME               -->
+<!-- ═══════════════════════════════════════ -->
+
+## 👨‍💻 About Me
+
+```yaml
+name: Siddharth Gautam
+university: IIIT Dharwad
+degree: B.Tech Computer Science and Engineering
+
+minors:
+  - Generative AI
+  - Financial Analytics
+
+interests:
+  - Artificial Intelligence & Machine Learning
+  - Full Stack Development
+  - Data Structures & Algorithms
+  - Competitive Programming
+  - Open Source Development
+  - System Design
+
+currently:
+  - Building intelligent software solutions
+  - Exploring Generative AI and Agentic AI
+  - Practicing DSA and competitive programming
+  - Contributing to open source
+```
+
+I enjoy building technology-driven solutions to real-world problems, exploring intelligent systems, and continuously improving my problem-solving skills.
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--                 EXPERIENCE             -->
+<!-- ═══════════════════════════════════════ -->
+
+## 💼 Experience & Involvement
+
+| Role | Organization | Duration |
+|:---|:---|:---|
+| Research Intern – Healthcare AI | IIT Indore | May – Jul 2026 |
+| Open Source Contributor | GirlScript Summer of Code | May – Aug 2026 |
+| Campus MLSA Ambassador | Microsoft Learn Student Ambassadors, IIIT Dharwad | 2025 – Present |
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--                  PROJECTS              -->
+<!-- ═══════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Real-Time Amazon Price Monitoring
+
+Automated system to monitor Amazon product prices and track price changes over time.
+
+**Tech:** Python · Web Scraping · Automation
+
+[View Repository](https://github.com/Semaphore007/Real-Time-Amazon-Price-Monitoring)
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 Automated Academic Timetable Generator
+
+Constraint-based academic timetable generation system designed for educational institutions.
+
+**Tech:** Python · Streamlit · Pandas · OpenPyXL
+
+[View Repository](https://github.com/Ctrl-Alt-Survive/AutomatedTimeTable)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Clarity – Unmasking Political Question Evaluation
+
+An ML and NLP project that analyzes and classifies questions using text data.
+
+**Tech:** Python · NLP · Machine Learning
+
+[View Project](https://colab.research.google.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 DSA Practice
+
+Consistent problem-solving practice covering algorithms, data structures, greedy techniques, graphs and dynamic programming.
+
+**Tech:** C++ · DSA · Problem Solving
+
+[View Repository](https://github.com/Semaphore007/Strivers-A2Z-DSA-Sheet)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--              CONTRIBUTION GRAPH        -->
+<!-- ═══════════════════════════════════════ -->
+
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+<img src="https://ghchart.rshah.org/58a6ff/Semaphore007" width="95%" alt="GitHub contribution graph"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--               GITHUB STATS             -->
+<!-- ═══════════════════════════════════════ -->
+
+## ⚡ GitHub Statistics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Semaphore007&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semaphore007&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</p>
+
+<p align="center">
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Semaphore007&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=bc8cff" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--              LEETCODE STATS            -->
+<!-- ═══════════════════════════════════════ -->
+
+## ⚡ LeetCode Statistics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/The_Outlier2003?theme=dark&font=Fira%20Code&ext=heatmap" width="495" alt="LeetCode Statistics"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--                ACHIEVEMENTS            -->
+<!-- ═══════════════════════════════════════ -->
+
+## 🏆 Achievements & Highlights
+
+| Achievement | Recognition |
+|:---|:---|
+| 🥇 LEAP Hackathon Series 2026–27 | 1st Runner-Up – Code Celestials |
+| ⭐ CodeChef | 2-Star Coder |
+| 🔬 Research | Research Intern – IIT Indore |
+| 🌐 Open Source | GSSoC'26 Contributor |
+| 🎓 Student Community | Campus MLSA Ambassador |
+| 💻 Competitive Programming | LeetCode & Striver's A2Z DSA |
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--                TECH STACK              -->
+<!-- ═══════════════════════════════════════ -->
+
+## 🛠️ Tech Stack & Tools
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=161b22)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=161b22)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=161b22)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=161b22)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=161b22)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=161b22)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=161b22)
+![Express](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=161b22)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=161b22)
+
+**AI / ML & Data Science**
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=161b22)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0d1117?style=for-the-badge&logo=openai&logoColor=58a6ff&labelColor=161b22)
+![NLP](https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=161b22)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=161b22)
+
+**Databases & Developer Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=161b22)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=161b22)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=161b22)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=161b22)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=161b22)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=161b22)
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--                 PROFILE VIEWS          -->
+<!-- ═══════════════════════════════════════ -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Semaphore007&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge&labelColor=161b22" alt="Profile Views"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════ -->
+<!--                CONNECT WITH ME         -->
+<!-- ═══════════════════════════════════════ -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://siddharth-gautam.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=161b22"/>
+</a>
+<a href="https://www.linkedin.com/in/siddharth-gautam-883539238">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22"/>
+</a>
+<a href="https://leetcode.com/u/The_Outlier2003/">
+<img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22"/>
+</a>
+<a href="https://www.codechef.com/users/semaphore_007">
+<img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=161b22"/>
+</a>
+<a href="https://takeuforward.org/profile/semaphore007">
+<img src="https://img.shields.io/badge/TakeUForward-0d1117?style=for-the-badge&logo=github&logoColor=3fb950&labelColor=161b22"/>
+</a>
+<a href="https://github.com/Semaphore007">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=161b22"/>
 </a>
 <a href="https://medium.com/@sidgautam282003">
-  <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-</a>
-<a href="mailto:sidgautam282003@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=161b22"/>
 </a>
 
-</div>
+</p>
+
+<p align="center">
+📫 <b>Email:</b> sidgautam282003@gmail.com
+</p>
 
 ---
 
-# 🧑‍💻 About Me:
-<img align="right"
-     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-     width="350"
-     alt="Developer Coding Animation">
+<!-- ═══════════════════════════════════════ -->
+<!--                  FOOTER WAVE           -->
+<!-- ═══════════════════════════════════════ -->
 
-<pre>
-class Developer {
-public:
-    string education = "B.Tech CSE @ IIIT Dharwad";
-    string role = "Founder @ GatiAnvesh Dynamics";
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,50:3fb950,100:58a6ff&height=100&section=footer" width="100%"/>
 
-    vector<string> interests = {
-        "AI/ML", "Generative AI",
-        "DSA", "Full Stack Development",
-        "Open Source"
-    };
-
-    vector<string> tech = {
-        "C++", "Python", "JavaScript",
-        "React", "Node.js", "Git"
-    };
-};
-</pre>
+<p align="center">
+<b>Building. Learning. Innovating.</b> 🚀
+<br/>
+<i>"Turning ideas into impactful technology."</i>
+</p>
 
 </div>
-
----
-
-<div align="center">
-
-## 🛠️ **Tech Stack & Skills**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-
-</div>
-
-### 💻 Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🤖 AI / ML & Data Science
-
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🌐 APIs & Maps
-
-![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-
-### ☁️ Cloud & Deployment
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🛠️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### 🎨 Design & Creative Tools
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-### 🧠 GPU & Computing
-
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### 📱 Mobile & IoT
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### 🌍 Web3 & Blockchain
-
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### 📝 CMS & Productivity
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### 📊 Data & Visualization
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-
----
-
-<div align="center">
-     
-## 📊 **GitHub Statistics**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
-
-
-![](https://github-readme-stats.shion.dev/api?username=Semaphore007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Semaphore007&theme=tokyonight&hide_border=true)<br/>
-
-<div align="center">
-
-<img src="https://camo.githubusercontent.com/9b1401bf057d5b1c1bcfd0439dad5a9a83e0b8efdc6010717c82c34e32e86e08/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d5368726176616e695232343132266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426686964655f626f726465723d747275652662675f636f6c6f723d304431313137267469746c655f636f6c6f723d43373932454126746578745f636f6c6f723d464646464646266c616e67735f636f756e743d38"
-     alt="Top Languages"
-     width="400">
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 **Let's Connect!**
-
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
-     width="50"
-     alt="Handshake">
-
-**I'm always excited to collaborate on innovative projects and discuss new opportunities!**
-
-<a href="https://t.me/TheOutlier_2003"
-   style="text-decoration:none; display:inline-block; line-height:0;">
-  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
-       alt="Telegram">
-</a><a href="mailto:sidgautam282003@gmail.com"
-       style="text-decoration:none; display:inline-block; line-height:0;">
-  <img src="https://img.shields.io/badge/MAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-       alt="Email">
-</a><a href="https://github.com/SiddharthGautam282003"
-       style="text-decoration:none; display:inline-block; line-height:0;">
-  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-       alt="GitHub">
-</a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-     width="700"
-     alt="Animated Red Line">
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"
-     alt="Animated Water Flow">
-
-</div>
-
----
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
