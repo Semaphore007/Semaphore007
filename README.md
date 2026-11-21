@@ -36,7 +36,7 @@
 
 Computer Science undergraduate passionate about building intelligent applications, solving challenging problems and contributing to impactful software projects.
 
-- 🔭 Exploring AI/ML, Generative AI and software engineering.
+- 🔭 Exploring AI/ML, System Design and software engineering.
 - 💻 Practicing Data Structures & Algorithms.
 - 🌱 Contributing to open-source projects.
 - 🚀 Building practical solutions through technology.
@@ -154,8 +154,6 @@ Computer Science undergraduate passionate about building intelligent application
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
      width="85%"
      alt="Animated Red Line"/>
-
-<img src="https://komarev.com/ghpvc/?username=Semaphore007&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 
