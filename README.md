@@ -1,63 +1,32 @@
-
 <div align="center">
 
-  <!-- ═══════════════════════════════════════ -->
-  <!--               HEADER WAVE              -->
-  <!-- ═══════════════════════════════════════ -->
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:bc8cff&height=160&section=header&animation=fadeIn" width="100%"/>
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:bc8cff&height=160&section=header&animation=fadeIn"
-    width="100%"
-    alt="Header Wave"
-  />
+<!-- ANIMATED NAME -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=90&lines=SIDDHARTH+GAUTAM" width="100%"/>
 
-  <!-- ═══════════════════════════════════════ -->
-  <!--              ANIMATED NAME             -->
-  <!-- ═══════════════════════════════════════ -->
+<!-- ANIMATED ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=850&height=40&lines=Computer+Science+Undergraduate;AI+%26+ML+Enthusiast;Competitive+Programmer;Open+Source+Contributor" width="100%"/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=90&lines=SIDDHARTH+GAUTAM"
-    width="100%"
-    alt="Siddharth Gautam"
-  />
+<br/>
 
-  <!-- ═══════════════════════════════════════ -->
-  <!--             ANIMATED ROLES             -->
-  <!-- ═══════════════════════════════════════ -->
+<!-- SOCIAL LINKS -->
+<a href="https://www.linkedin.com/in/siddharth-gautam-883539238">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://medium.com/@sidgautam282003">
+<img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="mailto:sidgautam282003@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=850&height=40&lines=Computer+Science+Undergraduate;AI+%26+ML+Enthusiast;Competitive+Programmer;Open+Source+Contributor"
-    width="100%"
-    alt="Animated Roles"
-  />
+<br/><br/>
 
-  <br/><br/>
+🎓 **B.Tech CSE @ IIIT Dharwad (2024–2028)**
 
-  <!-- ═══════════════════════════════════════ -->
-  <!--               SOCIAL LINKS             -->
-  <!-- ═══════════════════════════════════════ -->
-
-  <a href="https://www.linkedin.com/in/siddharth-gautam-883539238">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@sidgautam282003">
-    <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="mailto:sidgautam282003@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- ═══════════════════════════════════════ -->
-  <!--                EDUCATION               -->
-  <!-- ═══════════════════════════════════════ -->
-
-  🎓 **B.Tech CSE @ IIIT Dharwad (2024–2028)**
-
-  🤖 Minor in Generative AI · 📊 Minor in Financial Analytics
-
-  <br/>
+🤖 Minor in Generative AI · 📊 Minor in Financial Analytics
 
 </div>
 
