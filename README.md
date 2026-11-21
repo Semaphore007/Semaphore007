@@ -154,12 +154,12 @@ Computer Science undergraduate passionate about building intelligent application
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"
-     width="100%"
-     alt="Animated Water Flow"/>
+  width="100%"
+  alt="Animated Water Flow"/>
 
 </div>
 
----
+
 
 <div align="center">
 
