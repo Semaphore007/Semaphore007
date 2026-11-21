@@ -115,29 +115,47 @@ Computer Science undergraduate passionate about building intelligent application
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 **Let's Connect!**
 
 <div align="center">
 
-<a href="https://siddharth-gautam.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-161b22?style=for-the-badge&logo=googlechrome&logoColor=58a6ff"/>
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
+     width="65"
+     alt="Handshake"/>
+
+**I'm always excited to collaborate on innovative projects and discuss new opportunities!**
+
+<br/>
+
+<a href="https://t.me/TheOutlier_2003">
+  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:sidgautam282003@gmail.com">
+  <img src="https://img.shields.io/badge/MAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Semaphore007">
-<img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://siddharth-gautam.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/siddharth-gautam-883539238">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://leetcode.com/u/The_Outlier2003/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-<a href="https://medium.com/@sidgautam282003">
-<img src="https://img.shields.io/badge/Medium-Read-161b22?style=for-the-badge&logo=medium&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+     width="85%"
+     alt="Animated Red Line"/>
+
 <img src="https://komarev.com/ghpvc/?username=Semaphore007&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"
+     width="100%"
+     alt="Animated Water Flow"/>
 
 </div>
 
@@ -145,10 +163,12 @@ Computer Science undergraduate passionate about building intelligent application
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,50:3fb950,100:58a6ff&height=120&section=footer" width="100%"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
 
 **Building · Learning · Innovating**
 
-*Turning ideas into impactful technology.*
+*Turning ideas into impactful technology.* 🚀
 
 </div>
