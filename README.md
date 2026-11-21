@@ -95,6 +95,7 @@ Computer Science undergraduate passionate about building intelligent application
 
 ## 🔥 Coding Activity & Contribution Heatmaps
 
+
 ### 💻 LeetCode Activity
 
 <div align="center">
@@ -102,8 +103,8 @@ Computer Science undergraduate passionate about building intelligent application
 <a href="https://leetcode.com/u/The_Outlier2003/">
   <img
     src="https://leetcard.jacoblin.cool/The_Outlier2003?theme=dark&font=Fira%20Code&ext=heatmap"
-    width="95%"
-    alt="LeetCode Statistics and Yearly Activity Heatmap"
+    width="65%"
+    alt="LeetCode Statistics and Heatmap"
   />
 </a>
 
