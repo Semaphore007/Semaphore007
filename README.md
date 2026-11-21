@@ -1,13 +1,12 @@
  <div align="center">
 
-<!-- ═══════════════════════════════════════ -->
-<!--                  HEADER                 -->
-<!-- ═══════════════════════════════════════ -->
-
+<!-- HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:bc8cff&height=160&section=header&animation=fadeIn" width="100%"/>
 
+<!-- ANIMATED NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=90&lines=SIDDHARTH+GAUTAM" width="100%"/>
 
+<!-- ANIMATED ROLES -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=850&height=40&lines=Computer+Science+Undergraduate;AI+%26+ML+Enthusiast;Competitive+Programmer;Open+Source+Contributor" width="100%"/>
 
 <br/>
@@ -34,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate passionate about building intelligent applications, solving challenging problems and contributing to impactful software projects.
+Computer Science undergraduate passionate about building intelligent applications, solving challenging problems and contributing to impactful software projects.
 
 - 🔭 Exploring AI/ML, Generative AI and software engineering.
 - 💻 Practicing Data Structures & Algorithms.
@@ -47,19 +46,19 @@ I'm a Computer Science undergraduate passionate about building intelligent appli
 
 <div align="center">
 
-### Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css&theme=dark" height="55"/>
 
-### Frameworks & Development
+**Frameworks & Development**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,flask&theme=dark" height="55"/>
 
-### AI / ML & Data Science
+**AI / ML & Data Science**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="55"/>
 
-### Databases & Developer Tools
+**Databases & Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,vscode,docker&theme=dark" height="55"/>
 
@@ -171,7 +170,7 @@ Political question evaluation using NLP and machine learning.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Semaphore007/Semaphore007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Semaphore007/Semaphore007/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Contribution Snake" width="100%"/>
 
 </div>
 
