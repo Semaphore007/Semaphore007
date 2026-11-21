@@ -1,7 +1,7 @@
  <div align="center">
 
 <!-- ═══════════════════════════════════════ -->
-<!--                 HEADER                  -->
+<!--                  HEADER                 -->
 <!-- ═══════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:bc8cff&height=160&section=header&animation=fadeIn" width="100%"/>
@@ -92,7 +92,6 @@ Constraint-based academic timetable scheduling system.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -134,11 +133,9 @@ Political question evaluation using NLP and machine learning.
 
 <div align="center">
 
-<a href="https://github.com/Semaphore007">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Semaphore007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="GitHub Stats"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semaphore007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages"/>
-</a>
 
 <br/><br/>
 
@@ -168,15 +165,13 @@ Political question evaluation using NLP and machine learning.
 
 </div>
 
-### 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Semaphore007/Semaphore007/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Semaphore007/Semaphore007/output/github-contribution-grid-snake.svg"/>
-<img alt="Animated GitHub Contribution Snake" src="https://raw.githubusercontent.com/Semaphore007/Semaphore007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Semaphore007/Semaphore007/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub Contribution Snake"/>
 
 </div>
 
@@ -187,19 +182,19 @@ Political question evaluation using NLP and machine learning.
 <div align="center">
 
 <a href="https://siddharth-gautam.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=58a6ff"/>
-</a>
-<a href="https://www.linkedin.com/in/siddharth-gautam-883539238">
-<img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://leetcode.com/u/The_Outlier2003/">
-<img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-<a href="https://medium.com/@sidgautam282003">
-<img src="https://img.shields.io/badge/Medium-161b22?style=for-the-badge&logo=medium&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-161b22?style=for-the-badge&logo=googlechrome&logoColor=58a6ff"/>
 </a>
 <a href="https://github.com/Semaphore007">
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-161b22?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+<a href="https://www.linkedin.com/in/siddharth-gautam-883539238">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="https://leetcode.com/u/The_Outlier2003/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+<a href="https://medium.com/@sidgautam282003">
+<img src="https://img.shields.io/badge/Medium-Read-161b22?style=for-the-badge&logo=medium&logoColor=ffffff"/>
 </a>
 
 <br/><br/>
