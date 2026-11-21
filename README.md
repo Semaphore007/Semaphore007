@@ -66,57 +66,6 @@ Computer Science undergraduate passionate about building intelligent application
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 TrackSure
-
-Explainable logistics parcel-risk and investigation platform.
-
-**Focus:** Logistics · Risk Analysis · Intelligent Systems
-
-</td>
-<td width="50%" valign="top">
-
-### 📅 Automated Timetable Generator
-
-Constraint-based academic timetable scheduling system.
-
-**Focus:** Python · Optimization · Automation
-
-[Repository](https://github.com/Ctrl-Alt-Survive/AutomatedTimeTable)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Amazon Price Monitoring
-
-Automated product price monitoring and tracking system.
-
-**Focus:** Python · Web Scraping · Automation
-
-[Repository](https://github.com/Semaphore007/Real-Time-Amazon-Price-Monitoring)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Clarity
-
-Political question evaluation using NLP and machine learning.
-
-**Focus:** NLP · Machine Learning
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💼 Experience & Achievements
 
 | Experience | Organization |
@@ -161,16 +110,6 @@ Political question evaluation using NLP and machine learning.
 <div align="center">
 
 <img src="https://ghchart.rshah.org/58a6ff/Semaphore007" width="95%" alt="GitHub Contribution Heatmap"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Semaphore007/Semaphore007/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Contribution Snake" width="100%"/>
 
 </div>
 
