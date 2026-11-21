@@ -100,7 +100,11 @@ Computer Science undergraduate passionate about building intelligent application
 <div align="center">
 
 <a href="https://leetcode.com/u/The_Outlier2003/">
-<img src="https://leetcard.jacoblin.cool/The_Outlier2003?theme=dark&font=Fira%20Code&ext=heatmap" width="65%" alt="LeetCode Statistics and Heatmap"/>
+  <img
+    src="https://leetcard.jacoblin.cool/The_Outlier2003?theme=dark&font=Fira%20Code&ext=heatmap"
+    width="95%"
+    alt="LeetCode Statistics and Yearly Activity Heatmap"
+  />
 </a>
 
 </div>
