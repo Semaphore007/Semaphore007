@@ -165,10 +165,4 @@ Computer Science undergraduate passionate about building intelligent application
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br/>
-
-**Building · Learning · Innovating**
-
-*Turning ideas into impactful technology.* 🚀
-
 </div>
