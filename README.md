@@ -46,74 +46,39 @@ Computer Science undergraduate passionate about building intelligent application
 
 ## 🛠️ Technical Skills
 
-<div align="center">
+<div align="left">
 
-### 💻 Languages & Programming
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,rust,html,css&theme=dark" height="55"/>
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,rust,html,css&theme=dark" height="45"/>
 
 ### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,sass&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,sass&theme=dark" height="45"/>
 
 ### ⚙️ Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,flask,dotnet&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,flask,dotnet&theme=dark" height="45"/>
 
 ### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,oracle&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" height="45"/>
 
 ### 🤖 AI / ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas&theme=dark" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda,numpy&theme=dark" height="55"/>
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,git,github&theme=dark" height="45"/>
 
-### 📊 Data Visualization
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=bash,powershell,vscode,postman,notion,anaconda&theme=dark" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
-
-**NumPy · Pandas · Matplotlib · Plotly**
-
-### 🌐 APIs & Maps
-
-<img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" height="55"/>
-
-**Google Maps API · Leaflet.js · WebSockets**
-
-### ☁️ Cloud & Deployment
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,cloudflare,netlify,vercel&theme=dark" height="55"/>
-
-### 🛠️ Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,bash,powershell,vscode,postman,notion&theme=dark" height="55"/>
-
-### 🎨 Design & Creative Tools
-
-<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" height="55"/>
-
-**Adobe Creative Cloud**
-
-### 🧠 GPU & Computing
-
-<img src="https://skillicons.dev/icons?i=apple&theme=dark" height="55"/>
-
-**CUDA · NVIDIA**
+### 🎨 Design & Creative
+<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" height="45"/>
 
 ### 📱 Mobile & IoT
+<img src="https://skillicons.dev/icons?i=flutter,raspberrypi&theme=dark" height="45"/>
 
-<img src="https://skillicons.dev/icons?i=flutter,raspberrypi&theme=dark" height="55"/>
-
-### 🌍 Web3 & Blockchain
-
-**Web3.js**
-
-### 📝 CMS & Productivity
-
-<img src="https://skillicons.dev/icons?i=wordpress,notion&theme=dark" height="55"/>
+### 🌐 Other Technologies
+<img src="https://skillicons.dev/icons?i=wordpress,latex&theme=dark" height="45"/>
 
 </div>
-
 ---
 
 ## 💼 Experience & Achievements
