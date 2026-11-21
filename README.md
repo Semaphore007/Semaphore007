@@ -49,7 +49,7 @@ Computer Science undergraduate passionate about building intelligent application
 <div align="left">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,rust,html,css&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css&theme=dark" height="45"/>
 
 ### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,sass&theme=dark" height="45"/>
@@ -72,14 +72,10 @@ Computer Science undergraduate passionate about building intelligent application
 ### 🎨 Design & Creative
 <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" height="45"/>
 
-### 📱 Mobile & IoT
-<img src="https://skillicons.dev/icons?i=flutter,raspberrypi&theme=dark" height="45"/>
-
 ### 🌐 Other Technologies
 <img src="https://skillicons.dev/icons?i=wordpress,latex&theme=dark" height="45"/>
 
 </div>
----
 
 ## 💼 Experience & Achievements
 
